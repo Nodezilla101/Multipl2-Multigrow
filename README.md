@@ -13,7 +13,7 @@ multiple-network.gitbook.io (https://multiple-network.gitbook.io/multiple-networ
 
 Step by Step Tutorial :
 
-```git clone https://github.com/shareithub/node-multiple-multigrow.git```
+```git clone https://github.com/Nodezilla101/Multipl2-Multigrow.git```
 
 ```cd Multipl2-Multigrow```
 

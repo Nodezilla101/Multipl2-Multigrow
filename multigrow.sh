@@ -106,7 +106,8 @@ restart_node() {
     multiple-cli bind --bandwidth-download 200 --identifier $IDENTIFIER --pin $PIN --storage 200 --bandwidth-upload 200
 
     echo "Installation completed successfully!"
-    echo "Channel Telegram: https://t.me/SHAREITHUB_COM"
+    echo "Join Nodzillaz on Telegram: https://t.me/nodezilla101"
+    echo "Join Nodzillaz on Discord: https://discord.gg/RAEnTZSEVh"
 }
 
 # Menanyakan apakah pengguna ingin menghentikan node lama dan memulai dari awal
